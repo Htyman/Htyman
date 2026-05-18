@@ -18,10 +18,10 @@
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle" alt="Backend stack" />
 
 ### Databases & Infrastructure
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx" alt="Databases and infrastructure" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker" alt="Databases and infrastructure" />
 
 ### Tools & Environment
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,idea,vscode" alt="Tools and environment" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode" alt="Tools and environment" />
 
 </div>
 
