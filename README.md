@@ -69,12 +69,7 @@ not only how to write code, but how to design, structure and maintain software s
 
 <div align="center">
 
-## GitHub Overview
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Htyman&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htyman&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-
-<br />
+## GitHub Activity
 
 <img height="165" src="https://streak-stats.demolab.com?user=Htyman&theme=github-dark-blue&hide_border=true&border_radius=8" alt="GitHub streak" />
 
